@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1789-primary-department-for-each-employee) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
