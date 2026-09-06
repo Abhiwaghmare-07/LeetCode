@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
