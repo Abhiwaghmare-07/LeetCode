@@ -5,4 +5,4 @@ where tiv_2015 IN (select tiv_2015 from Insurance
                    having count(tiv_2015)>1) 
 and (lat, lon) in  (select lat,lon from Insurance
                 group by lat,lon
-                having count(*)=1)                   
+                having count(lat)=1)                   
