@@ -9,6 +9,9 @@ class Solution {
         int ans=-1;
         while(low<high){
             int mid=low+(high-low)/2;
+            if(mid!=0 && mid!=nums.length-1){
+            if(nums[mid-1]<nums[mid] && nums[mid]>nums[mid+1]) return mid;
+            }
             if(nums[mid]<nums[mid+1]){
         
                 low=mid+1;
