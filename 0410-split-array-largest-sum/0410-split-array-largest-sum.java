@@ -6,15 +6,14 @@ class Solution {
             if(sum+nums[i]>mid){
                 parts++;
                 sum=nums[i];
-                 if (parts > k) {
-                    return false;
-                }
+                
             }else{
                 sum+=nums[i];
             }
             
         }
-        return true;
+        if(parts<=k) return true;
+        return false;
     }
     public int splitArray(int[] nums, int k) {
         long low=Integer.MIN_VALUE;
