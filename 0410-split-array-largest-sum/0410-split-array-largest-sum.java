@@ -1,21 +1,23 @@
 class Solution {
-    public boolean partition(int[] nums,long mid,int k){
+    public int partition(int[] nums,long mid,int k){
         int parts=1;
         long sum=0;
         for(int i=0;i<nums.length;i++){
-            if(sum+nums[i]>mid){
-                parts++;
-                sum=nums[i];
+            if(sum+nums[i]<=mid){
+                  sum+=nums[i];
+               
                 
             }else{
-                sum+=nums[i];
+               parts++;
+                sum=nums[i];
             }
             
         }
-        if(parts<=k) return true;
-        return false;
+       
+        return parts;
     }
     public int splitArray(int[] nums, int k) {
+        
         long low=Integer.MIN_VALUE;
         long high=0;
         for(int i=0;i<nums.length;i++){
@@ -24,12 +26,12 @@ class Solution {
         }
         while(low<=high){
             long mid=low+(high-low)/2;
-            if(partition(nums,mid,k)){
+            int cnt=partition(nums,mid,k);
+            if(cnt<=k){
                 high=mid-1;
             }else{
                 low=mid+1;
             }
         }
         return (int)low;
-    }
-}
+}}
