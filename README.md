@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Greedy
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2643-row-with-maximum-ones) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
