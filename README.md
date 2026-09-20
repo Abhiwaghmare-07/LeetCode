@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -210,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
