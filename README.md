@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1901-find-a-peak-element-ii) |
