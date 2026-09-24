@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
 | ------- |
