@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -292,8 +293,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
