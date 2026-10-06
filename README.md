@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -328,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
