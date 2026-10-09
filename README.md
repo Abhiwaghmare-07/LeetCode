@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0796-rotate-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -208,12 +210,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0735-asteroid-collision) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
