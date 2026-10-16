@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
