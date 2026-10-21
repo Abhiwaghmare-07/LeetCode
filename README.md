@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -417,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0460-lfu-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
