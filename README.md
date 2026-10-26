@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
@@ -439,14 +441,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
