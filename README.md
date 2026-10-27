@@ -439,12 +439,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -454,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
