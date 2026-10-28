@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2527-find-xor-beauty-of-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2527-find-xor-beauty-of-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
