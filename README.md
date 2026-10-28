@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2105-watering-plants-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2105-watering-plants-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2527-find-xor-beauty-of-array](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/0735-asteroid-collision) |
+| [2105-watering-plants-ii](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhiwaghmare-07/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
