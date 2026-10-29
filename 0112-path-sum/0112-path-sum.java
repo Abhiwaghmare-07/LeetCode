@@ -14,15 +14,30 @@
  * }
  */
 class Solution {
-    public boolean pathSum(TreeNode root,int sum,int value){
-        if(root==null) return false;
-        value+=root.val;
-        if(root.right==null && root.left==null) return value==sum;
-        return pathSum(root.left,sum,value) ||   pathSum(root.right,sum,value);
-    
+    public boolean helper(TreeNode root, int targetSum,int sum) {
+        if(root == null){
+            return false;
+        }
+        if(root.left == null && root.right == null){
+            if(targetSum == sum+root.val){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
 
+        if(root.left != null && root.right != null){
+            return helper(root.left,targetSum,sum+root.val) || helper(root.right,targetSum,sum+root.val);
+        }
+        else if(root.left != null){
+            return helper(root.left,targetSum,sum+root.val);
+        }
+        else{
+            return helper(root.right,targetSum,sum+root.val);
+        }
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return pathSum(root,targetSum,0);
+        return helper(root,targetSum,0);
     }
 }
